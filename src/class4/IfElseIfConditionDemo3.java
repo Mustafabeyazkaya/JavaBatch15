@@ -2,7 +2,7 @@ package class4;
 
 public class IfElseIfConditionDemo3 {
     public static void main(String[] args) {
-        int day=8;// to use = only one time means is assign a value to a variable
+        int day=5;// to use = only one time means is assign a value to a variable
 
         if (day==1){// to use = 2 times means is we compare two values
             System.out.println("Monday");// If Block
