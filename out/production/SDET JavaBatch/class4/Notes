@@ -1,0 +1,42 @@
+Operators: (+,-,*,/,%)
+    Operators are different symbols that we can use to perform operation like addition,subtractions ,
+    we can compare things if two entiities are same or not if a number is greater than the other number or not.
+    There are three main types of operators, They are Arithmetic operators, Relational operators and logical operators
+Arithmetic operators:
+    We use Arithmetic operators to perform simple math operators, Like additions, subtraction etc.
+    + => Addition
+    - => Subtract
+    / => Division
+    * => Multiplication
+    % => Modulus ( to get/calculate remainder(4 islemden kalan)(the left from arithmetics math)
+
+
+
+Relational operators.
+    Relational operators are used to compare two qauantities. For example if something is bigger than other thing or
+    if two numbers are same or not or if two boolean variables contain same values or not
+    == => used to check if two variables contain the same value or not, if values are same, we get tru otherwise we get false.
+    != => used to check if two variables dont contain the same value we get a true if they are not same,otherwise we get a false.
+    >  => used to check if one value is greater than other value or not if greater we get a true, otherwise we get a false
+    <  => used to check if one value is less than other value or not if less we get a true, otherwise we get a false
+    >= => used to check if the values on the left greater than or equal the value on the right, we get a true, otherwise we get a false
+    <= => used to check if the value on the left less than or equal the value on the right, we get a true, otherwise we get a false
+
+Conditional Constructs
+used to write conditional code. A piece of code that execute based on a condition if condition is true that java execute the code, otherwise it skips that code.
+How to write IfELse condition.
+    if(condition) {
+     any line of code you can put  for ex:
+     you can even put another if condition in the if bracket
+       if(){
+       }
+     }
+Important Note:
+   1) for String we use equals method instead of == sign because it is a npn-primitive data type
+   2) We can use (ctrl+alt+l(for windows)) or (cmd+pot+l(for Mac))
+   3) if we are confused about brackets we can click on opening or closing part to check the other part.
+
+if else conditions
+   When we i have to test the same variables for multiple conditions i should us If else If
+   When wei have multiple condintions and these conditions are dependent on each other Nested if conditions
+
