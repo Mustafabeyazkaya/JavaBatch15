@@ -16,6 +16,7 @@ public class hw1 {
             }
             day++;
         }
-        System.out.println("I dont need a day off any more");
+        System.out.println("I don't need a day off any more");
+        // there is another way to solve this question in the class 7 as a name that has homeWorkRecap, check that out
     }
 }
