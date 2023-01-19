@@ -1,0 +1,17 @@
+A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers. A natural number greater than 1 that is not a prime number is called a composite number.
+For example, the number 2 is a prime number because it can only be divided evenly by 1 and 2. The number 4, on the other hand, is a composite number because it can be divided evenly by 1, 2 and 4.
+
+In other words, a prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself.
+
+Examples of prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, ...
+
+The first prime number is 2. There are an infinite number of prime numbers, but they become increasingly rare as the numbers get larger.
+
+
+*
+**
+***
+****
+***
+**
+*
