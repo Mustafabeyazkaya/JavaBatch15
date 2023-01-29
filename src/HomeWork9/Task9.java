@@ -7,15 +7,14 @@ public class Task9 {
         int [] num={10,25,2,99};
         int max=num[0];
         int min=num[0];
-        for (int i = 0; i < num.length; i++) {
+        for (int i = 1; i < num.length; i++) {
             if (num[i]>max){
                 max=num[i];
-                System.out.println("This is the maximum number of inside this array "+max);
             }if (num[i]<min){
                 min=num[i];
-                System.out.println("This is the minimum number of inside this array "+min);
         }
-        }
+        } System.out.println("This is the maximum number of inside this array "+max);
+        System.out.println("This is the minimum number of inside this array "+min);
 
     }
 }

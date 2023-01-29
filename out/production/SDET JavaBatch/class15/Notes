@@ -1,0 +1,14 @@
+Summary:
+In Java, variables can be classified into three types: local, instance, and static.
+1.    Local Variables: Local variables are defined inside a method or block of code. They are only accessible within the method or block of code where they are declared and are not visible outside of it. They are also known as automatic or stack variables. They do not have a default value, so you must initialize them before using them.
+-    Upside: Local variables occupy the memory for the shortest period of time. You should always try to write code with help of local variables
+-    Downside: They can't be accessed outside the block in which they are created. They have very limited scope.
+2.    Instance Variables: Instance variables are defined in a class but outside of any method. They are associated with an instance of the class and have a default value. They can be accessed by any method in the class and are also known as non-static fields.
+-    Upside: we can use them in all the instance methods of that class. their scope is larger than local variables.
+-    Downside: they stay longer in the memory as compared to local variables.
+3.    Static Variables: Static variables are also defined in a class but outside of any method and are shared among all instances of the class. They are associated with the class itself rather than any specific instance. They can be accessed by any method in the class and are also known as class variables. They have a default value and can be accessed directly by calling className.variableName.
+
+In short:
+•    Local variables are defined within a method and are not visible outside of it.
+•    Instance variables are defined in a class and are associated with an instance of the class.
+•    Static variables are defined in a class and are shared among all instances of the class. They are associated with the class itself.
